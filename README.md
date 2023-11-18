@@ -68,7 +68,5 @@ This link leads to a collection of my visualizations and analyses, including the
 - This project is released under the MIT License. Refer to the LICENSE file for more details.
 
 ## Contact
-
-- Name: Kushal Ahuja
-- Email: ahuja.kushal2@gmail.com 
+For any queries or discussions regarding this project, feel free to contact me at ahuja.kushal2@gmail.com
 
